@@ -1,0 +1,11 @@
+@media (min-width: 640px) {
+  .container {
+    padding: 0 30px;
+  }
+  .header__inner {
+    min-height: 100px;
+  }
+  .logo__link {
+    margin-left: 13px;
+  }
+}/*# sourceMappingURL=tablet-640.css.map */

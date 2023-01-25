@@ -1,0 +1,18 @@
+@media (min-width: 1024px) {
+  .top-slider__item {
+    min-height: 618px;
+  }
+  .top-slider__title {
+    font-size: 84px;
+    line-height: 84px;
+    letter-spacing: 2px;
+    max-width: 750px;
+    padding: 101px 0 0px;
+  }
+  .top-slider .slick-dots {
+    bottom: 85px;
+  }
+  .call__box {
+    max-width: 695px;
+  }
+}/*# sourceMappingURL=tablet-1024.css.map */

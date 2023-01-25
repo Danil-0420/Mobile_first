@@ -804,7 +804,7 @@
         transition: all 0.5s;
       }
       .news__item-img {
-        border: 10px solid $accent;
+        box-shadow: 0px 0px 0px 10px $accent;
         transition: all 0.5s;
       }
     }
@@ -815,7 +815,7 @@
     background-position: center;
     background-repeat: no-repeat;
     display: block;
-    border: 0px solid $accent;
+    box-shadow: 0px 0px 0px 0px $accent;
     transition: all 0.2s;
   }
 
